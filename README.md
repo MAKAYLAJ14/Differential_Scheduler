@@ -36,8 +36,11 @@ To use:
 ```npm start:dev```
 
 ## License
-Distributed under the MIT. See https://opensource.org/license/mit for more information
+Distributed under the MIT.
 
+## Questions
+Please submit questions at the following links
+Email: [makaylaj14@gmail.com](mailto:makaylaj14@gmail.com).
+Github: [makaylaj14](https://github.com/makaylaj14).
 
-  
-  
+Launched Page: https://differential-scheduler-1.onrender.com/
