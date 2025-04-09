@@ -36,7 +36,9 @@ To use:
 ```npm start:dev```
 
 ## License
-Distributed under the MIT.
+This project is licensed under the MIT license.
+  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Questions
 Please submit questions at the following links
